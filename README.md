@@ -1,4 +1,4 @@
-# Netaccess-IITM-Automatic-Login-
+# Netaccess iitm login
 The code is written in python and uses Selenium package.
 To use this code, just write your roll no. in user = '    '.
 and your LDAP password in pasword = '   '.
