@@ -1,8 +1,8 @@
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 
-user = "   "
-password = "  "
+user = "username"
+password = "password"
 
 driver = webdriver.Chrome(r"C:\Users\Basu Jindal\chromedriver.exe")
 driver.set_page_load_timeout(10)
